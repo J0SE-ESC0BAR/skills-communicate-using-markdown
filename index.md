@@ -11,3 +11,7 @@ Probando encabezados
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [ ] Activar GitHub Pages
+- [ ] Describir mi portafolio
+- [ ] Presentarme al mundo
