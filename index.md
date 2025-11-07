@@ -1,0 +1,17 @@
+Probando encabezados
+# Prueba de h2
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
+
+- [ ] Activar GitHub Pages
+- [ ] Describir mi portafolio
+- [ ] Presentarme al mundo
